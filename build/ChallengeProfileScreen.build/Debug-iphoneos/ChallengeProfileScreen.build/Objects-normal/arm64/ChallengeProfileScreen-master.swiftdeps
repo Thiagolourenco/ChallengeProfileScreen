@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1652748294, 366973876]
+build_end_time: [1652748296, 47549962]
+inputs:
+  "/Users/thiagolourenco/Documents/Develop/Mobile/IOS/ChallengeProfileScreen/ChallengeProfileScreen/ChallengeProfileScreenApp.swift": [1652405003, 789357423]
+  "/Users/thiagolourenco/Documents/Develop/Mobile/IOS/ChallengeProfileScreen/ChallengeProfileScreen/ContentView.swift": [1652405003, 794013023]
